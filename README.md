@@ -69,6 +69,7 @@ Things I have recently experimented with: Socket.io, Vite, Commander, Inquirer, 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
+![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visualstudiocode)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
 <br/>
