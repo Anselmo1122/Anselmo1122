@@ -6,6 +6,18 @@
 
 <br/>
 
+<p>
+I'm a JavaScript Developer 👨‍💻 oriented to Front-end. A Venezuelan who loves technology. 🚀
+<br/>
+Currently I'm in constant study ✍ to master the different and most important technologies in this field of web programming.
+<br/>  
+Technologies I use: JavaScript, TypeScript, React, Redux, React Router Dom, Bootstrap, Sass, NodeJS, Express and MongoDB.
+<br/>
+Things I have recently experimented with: Socket.io, Vite, Commander, Inquirer, Framer motion and a lot of other JavaScript UI libs...
+</p>
+  
+<br/>
+
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
@@ -24,18 +36,6 @@
   </tr>
 </table>
 
-<br/>
-
-<p>
-I'm a JavaScript Developer 👨‍💻 oriented to Front-end. A Venezuelan who loves technology. 🚀
-<br/>
-Currently I'm in constant study ✍ to master the different and most important technologies in this field of web programming.
-<br/>  
-Technologies I use: JavaScript, TypeScript, React, Redux, React Router Dom, Bootstrap, Sass, NodeJS, Express and MongoDB.
-<br/>
-Things I have recently experimented with: Socket.io, Vite, Commander, Inquirer, Framer motion and a lot of other JavaScript UI libs...
-</p>
-  
 <br/>
 
 ### ✨ Quick Facts
